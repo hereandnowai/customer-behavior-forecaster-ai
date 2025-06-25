@@ -1,0 +1,6 @@
+{
+  "name": "Customer Behavior Forecaster AI",
+  "description": "AI-powered app to analyze customer data, predict purchase likelihood, churn risk, and product interest, enabling targeted actions.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
